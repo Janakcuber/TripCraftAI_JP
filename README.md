@@ -46,7 +46,7 @@ Make travel planning effortless and personal. No stress, no endless research—j
 
 ## 👥 About
 
-**Built by**: Janak Palit
+**Built by**: Janak Palit, Abhik Anand and Alok Pandey
 
 Full-stack developer and software engineer passionate about building intelligent systems that solve real-world problems. TripCraft AI represents the intersection of advanced AI capabilities and practical travel planning needs.
 
